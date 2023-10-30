@@ -29,7 +29,7 @@ int main()
     if(min1 < min2)
         result = min1;
     else
-        result = min2;
+        result = min2; // 이거 왜 이케 함?
 
     cout << result << "\n";
 
